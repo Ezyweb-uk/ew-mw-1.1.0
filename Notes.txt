@@ -1,6 +1,7 @@
 PROPOSED UPDATES
 ----------------
-userfiles/modules/image_rollover - image with url link changes on rollover
+userfiles/modules/image_rollover - new module - image with url link changes on rollover
+userfiles/modules/logo - fixed inverse image upload bug 
 userfiles/modules/microweber/custom_fields/property.php - added hidden form field to include property on orders
 userfiles/modules/rating/ - moved lib.js and rating.js to template files to avoid always loading even if not used.
 userfiles/modules/settings/group/website.php - added additional date formats
