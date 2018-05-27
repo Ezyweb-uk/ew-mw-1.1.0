@@ -1,0 +1,10 @@
+PROPOSED UPDATES
+----------------
+userfiles/modules/microweber/custom_fields/property.php - added hidden form field to include property on orders
+userfiles/modules/rating/ - moved lib.js and rating.js to template files to avoid always loading even if not used.
+userfiles/modules/settings/group/website.php - added additional date formats
+userfiles/modules/shop/checkout/templates/
+userfiles/modules/shop/discounts/ - missing discounts.png added back
+userfiles/modules/testimonials/ - carousel template added
+userfiles/modules/video/ - added optional thumbnail to avoid the overhead of loading base.js to reduce page size - 4 remaining issues noted in admin.php
+userfiles/templates/dream/footer.php - removed admin link for security reasons
